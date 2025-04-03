@@ -32,3 +32,5 @@ This project enables you to play **Hill Climb Racing** using **hand gestures** v
 Make sure you have Python installed, then run:
 ```sh
 pip install opencv-python mediapipe
+pip install mediapipe
+
