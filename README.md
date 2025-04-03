@@ -1,5 +1,4 @@
-# Gesture-Hill-Climb-Racing
-Gesture-Controlled Hill Climb Racing
+# Gesture-Controlled Hill Climb Racing
 
 This project enables you to play Hill Climb Racing using hand gestures via a webcam. It uses MediaPipe for hand tracking and OpenCV for video processing, along with ctypes to simulate keypresses for controlling the game.
 
